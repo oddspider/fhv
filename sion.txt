@@ -1,1 +1,2 @@
 My name isn't Sion, it's Siôn!
+My terminal emulator doesn't support special characters... :(
