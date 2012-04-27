@@ -3,8 +3,6 @@ fhv
 
 FH Vorarlberg
 
-=======
-
 Petr Izrael
-Sion le Roux (Svata please fix my name or somebody?)
-Svatopluk Simara
+Siôn le Roux (Svata please fix my name or somebody?)
+Svatopluk Simara --Thanks man, SLR
