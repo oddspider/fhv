@@ -3,4 +3,5 @@ fhv
 
 FH Vorarlberg
 
-Sion le Roux (Svata please fix my name or somebody?)
+Siôn le Roux (Svata please fix my name or somebody?)
+Svatopluk Simara
